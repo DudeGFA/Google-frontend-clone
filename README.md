@@ -1,5 +1,4 @@
-# Google-frontend-clone
-Frontend clone of Google.com
+# Projects and tasks worked on while taking Scrimba's HTML and CSS course
 
 **Live demo**: 
 - [Google frontend clone](https://dudegfa.github.io/Scrimba-HTML-and-CSS-course-projects/)                    
